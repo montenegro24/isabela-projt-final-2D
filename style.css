@@ -1,0 +1,24 @@
+body {background-color: rgb(119, 162, 243);
+}
+h1 {text-align: center;
+    color: rgb(3, 3, 165);
+}
+h2 {text-align: center;
+    color:rgb(238, 255, 1);
+} 
+#ima1 {margin-left: 35%;
+    width:30% ;
+}
+#ima2 {margin-left: 35%;
+    width: 30%;
+}
+h3 {text-align: center;
+    color: rgb(211, 8, 8);
+}
+#ima3 {margin-left: 35%;
+       width: 30%;}
+h4 {text-align: center;
+    color: rgb(97, 7, 182);
+}
+#ima4 {margin-left: 35%;
+       width: 30%;}
